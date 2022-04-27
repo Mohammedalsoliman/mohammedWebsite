@@ -1,0 +1,24 @@
+img
+{
+  width: 350px
+}
+ol
+{
+  color: red;
+  font-weight: bold;
+  font-size: 20px;
+}
+span
+{
+  font-weight: bold;
+}
+ul
+{
+  color: black;
+  list-style-position: inside;
+  font-weight: bold;
+}
+body
+{
+  background:  #1BE2CF;
+}
